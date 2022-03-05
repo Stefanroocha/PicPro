@@ -1,0 +1,266 @@
+@media (max-width: 991px) {
+figure img {
+    width: 100%;
+    max-width: 12rem
+}
+    .s-hero {
+        padding: 4rem 0 3rem;
+    }
+    .desafio img {
+        width: 100%;
+        max-width: 23%;
+    }
+    .picpay button {
+        padding: 6px 60px;
+    }
+    .ul-s-hero .li-geral {
+        width: 14.7rem;
+        height: 16rem;
+        padding: 3rem 2rem;
+    }
+    .liboleto figure {
+        width: 100%;
+        max-width: 60%;
+    }
+    .liboleto:hover figure {
+        width: 100%;
+        max-width: 60%;
+    }
+    .licobrar figure {
+        width: 100%;
+        max-width: 57%;
+    }
+    .licobrar:hover figure {
+        width: 100%;
+        max-width: 57%;
+    }
+    .s-hero-secondy {
+        height: 44rem;
+    }
+    .ul-secondy li a .pagar1 {
+        max-width: 10rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .ul-s-hero .li-geral {
+        width: 11rem;
+        height: 13rem;
+        padding: 1.5rem 1.5rem;
+    }
+    .li-geral figure {
+        height: 4rem;
+        width: 4rem;
+    }
+    .ul-s-hero li p {
+        font-size: 1.6rem;
+    }
+    .liboleto figure {
+        width: 100%;
+        max-width: 64%;
+    }
+    .liboleto:hover figure {
+        width: 100%;
+        max-width: 64%;
+    }
+
+    .licobrar figure {
+        width: 100%;
+        max-width: 61%;
+    }
+    .licobrar:hover figure{
+        width: 100%;
+        max-width: 61%;
+    }
+}
+
+@media (max-width: 600px) {
+     header .container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+    figure img {
+        width: 100%;
+        max-width: 10rem
+    }
+    .s-hero {
+        padding: 1rem 0 1rem;
+    }
+    .ul-s-hero {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .ul-s-hero .li-geral {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: 1rem;
+    }
+    .liboleto figure {
+        width: 100%;
+        max-width: 12%;
+    }
+    .liboleto:hover figure {
+        width: 100%;
+        max-width: 12%;
+    }
+    .licobrar figure {
+        width: 100%;
+        max-width: 12%;
+    }
+    .licobrar:hover figure{
+        width: 100%;
+        max-width: 12%;
+    }
+    .s-hero-secondy {
+        height: 37rem;
+    }
+    .pagamento p {
+        font-size: 2rem;
+        margin-bottom: 1.5rem;
+    }
+    .qrcode img {
+        width: 100%;
+        max-width: 37%;
+    }
+    .qrcode button {
+        width: 30rem;
+        height: 3.5rem;
+        font-size: 1.3rem;
+        line-height: 150%;
+        margin-bottom: 2rem;
+    }
+    .qrcode p {
+        font-size: 1.5rem;
+        margin: 1rem 0 1.5rem 0;
+    }
+    .qrcode a {
+        font-size: 1.7rem;
+    }
+    .ul-secondy li a img {
+        width: 100%;
+        max-width: 2.5rem;
+    }
+    .ul-secondy li a .pagar1 {
+        max-width: 7rem;
+}
+}
+
+@media (max-width: 480px) {
+    .desafio2 {
+        padding: 1rem 0;
+        margin-bottom: 2rem;
+    }
+    .usuario p {
+        font-size: 1.5rem;
+    }
+    .usuario p strong {
+        font-size: 1.6rem;
+    }
+    .desafio {
+        display: none;
+    }
+    .picpay .picpay2 p {
+        font-size: 1.5rem;
+    }
+
+    .picpay {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .picpay2 {
+        margin-bottom: 1rem;
+    }
+    .picpay button {
+        width: 100%;
+        font-size: 1.5rem;
+    }
+    .ul-s-hero .li-geral {
+        width: 100%;
+        height: 50rem;
+        height: 10rem;
+    }
+    .ul-s-hero li p {
+        font-size: 1.3rem;
+    }
+    .liboleto figure {
+        width: 100%;
+        max-width: 21%;
+    }
+    .liboleto:hover figure {
+        width: 100%;
+        max-width: 21%;
+    }
+    .licobrar figure {
+        width: 100%;
+        max-width: 20%;
+    }
+    .licobrar:hover figure {
+        width: 100%;
+        max-width: 20%;
+    }
+    .qrcode button {
+        width: 27rem;
+        margin-bottom: 1.5rem;
+    }
+    .qrcode a {
+        font-size: 1.5rem;
+    }
+    .pix-container .image-pix {
+        width: 100%;
+        max-width: 13rem;
+    }
+    .boleto h2 {
+        font-size: 1.5rem;
+    }
+    .boleto p {
+        font-size: 1.3rem;
+        margin: 1rem 0px 1.5rem 0px;
+        text-align: center;
+    }
+    .boleto input {
+        width: 100%;
+        height: 3rem;
+        font-size: 1rem;
+    }
+    .cobrar h2 {
+        font-size: 1.5rem;
+    }
+    .cobrar p {
+        font-size: 1.3rem;
+        max-width: 43rem;
+        text-align: center;
+    }
+    .s-hero-secondy {
+        height: 30rem;
+    }
+    .pagamento p {
+        height: 6rem;
+        font-size: 1.1rem;
+        padding: 0 .5rem 0 .5rem;
+    }
+    .s-secondy .container {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+    .ul-secondy li a img {
+        width: 100%;
+        max-width: 1.5rem;
+    }
+    .ul-secondy li a p {
+        font-size: .9rem;
+        margin-top: 0;
+    }
+    .ul-secondy li a .pagar1 {
+        max-width: 6rem;
+    }
+}
